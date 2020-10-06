@@ -12,3 +12,44 @@ xmind files can be read with Xmind - https://www.xmind.net/download/
 "用户画像单项指标分类" (User Portrait Individual Index Classification)  as described by Tencent<br> 
 https://cloud.tencent.com/developer/article/1134423<br>
 https://translate.google.com/translate?hl=en&sl=zh-CN&u=https://cloud.tencent.com/developer/article/1134423&prev=search&pto=aue
+
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/earlydays.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/earlydays_cn.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/consumers.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/consumers_cn.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/logsearch.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/heatmap.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/dailyflightstats.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/ministry_of_information_security.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/ministry_of_information_security_cn.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/machinelearning.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/machinelearning_cn.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/breakuserbox.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/breakuserbox_cn.png">
+</p>
+
