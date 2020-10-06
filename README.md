@@ -14,6 +14,15 @@ https://cloud.tencent.com/developer/article/1134423<br>
 https://translate.google.com/translate?hl=en&sl=zh-CN&u=https://cloud.tencent.com/developer/article/1134423&prev=search&pto=aue
 
 <p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/YOU.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/datacollection.png">
+</p>
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/userportrait.png">
+</p>
+<p align="center">
   <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/pics/earlydays.png">
 </p>
 <p align="center">
