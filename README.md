@@ -1,5 +1,7 @@
 # Sentiment & Data Mining by DJI
-
+<p align="center">
+  <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/DJISpying.jpeg">
+</p>
 Data gleaned from open AWS shares circa October 2017
 
 DJI Sentinel & Supervisor 用户画像 (User Portrait) 数据平台 (Data Platform) detail<br>
