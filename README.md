@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://github.com/MAVProxyUser/UserPortrait/blob/master/DJISpying.jpeg">
 </p>
-Data gleaned from open AWS shares circa October 2017
+Data gleaned from open AWS shares circa October 2017<br>
+Update: full dump avaialble here - https://archive.org/details/DJI_1506456264_2017_09_26_9.3.5_gitlab_backup
 
 DJI Sentinel & Supervisor 用户画像 (User Portrait) 数据平台 (Data Platform) detail<br>
 
